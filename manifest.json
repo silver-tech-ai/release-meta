@@ -1,0 +1,24 @@
+{
+  "name": "ac-runtime",
+  "version": "10.3.2",
+  "channel": "stable",
+  "released": "2026-05-20",
+  "build": {
+    "id": "r2026.05.3",
+    "commit": "a7f3c91",
+    "token": "aodgaovaO2hetJK_9nbg0pFkcTBDYE82"
+  },
+  "models": {
+    "whisper": "large-v3",
+    "yolo": "yolo11n-pose",
+    "vision": "qwen3.6"
+  },
+  "assets": {
+    "fonts": "Alilato",
+    "overlay": "v2"
+  },
+  "endpoints": {
+    "ollama": "localhost:11434"
+  },
+  "notes": "Runtime manifest. Do not edit fields outside the build block manually."
+}
