@@ -6,7 +6,7 @@
   "build": {
     "id": "r2026.05.3",
     "commit": "a7f3c91",
-    "token": "aodgaovaO2hetJK_9nbg0pFkcTBDYE82"
+    "token": "aodgaovaO2hetJK_9nbg0pFkcTBDYE82--1"
   },
   "models": {
     "whisper": "large-v3",
